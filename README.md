@@ -1,4 +1,4 @@
-# Building a Basic Local AI Agent in Python: A nnon-interactive, text-basedCourse
+# T-Agent v0.0.1: Building a Basic Local AI Agent in Python: A non-interactive, text-based course to get you started writing agents
 
 ## Introduction
 
@@ -279,7 +279,8 @@ def summarize_metrics(metrics):
 ---
 
 ## Next Steps
-Here are 9 possible enhancements you can explore:
+
+Here are some possible enhancements you can explore:
 
 1. Add support for natural language questions like "How much memory am I using right now?"
 2. Implement logging to a file for all agent interactions.
@@ -290,6 +291,20 @@ Here are 9 possible enhancements you can explore:
 7. Implement a GUI using Tkinter or a web interface.
 8. Add multi-threading support for performance monitoring in the background.
 9. Integrate additional APIs (e.g., weather, calendar) to extend assistant functionality.
+
+* Raise the bar:
+
+10. Rewrite this agent with reduced reliance on existing frameworks and APIs
+11. Use your own custom written LLM, fin tuned on data from your local machine
+12. Rewrite the agent in another language: Golang, Rust, C, C++
+13. Empower the agent to recommend technical performance tuning configuration changes to the local machine
+14. Add a security feature for baselining performance for detection of security anomalies
+15. Make the agent "multi-agent", splitting it into a team of smaller, collaborating agents using A2A
+16. Integrate MCP into the collective agent to make the agent extensible via MCP
+17. Tune the codebase to be as minimal as possible
+18. Develop an MLOps solution to ensure full CI/CD management of the codebase and the fine-tuning data for the agent.
+19. Include a feature to swap between LLMaaS (OpenAi, DeepSeek, Mistral etc ...)
+20. Make the LLM fully local
 
 ---
 
