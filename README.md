@@ -16,6 +16,8 @@ The intended end state of the agent is to provide an a.i-enhanced "systems admin
 
 **Note: This course is a short as possible to bootstrap the learner as quickly as possible. It's only meant to provide a working starting point which you must then flesh out with solid theoretical foundation and moving on to more complex applications of agentic a.i.**
 
+*Recommendation: If you're not comfortable with Python coding, or coding in general, I recommend you download the Cursor A.I coding IDE from cursor.com and follow the code through the editor. It provides excellent learning support for understanding and even enhacing the code snippets in this course*
+
 ---
 
 ## Part 1: Understanding the Architecture
@@ -385,4 +387,48 @@ def main():
 if __name__ == '__main__':
     main()
 ```
+
+## Appendix: Further Reading
+
+# Top 10 Seminal Academic Papers Defining the Current State of the Art in Agentic AI
+
+1. **[Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762)**  
+   *Authors*: Ashish Vaswani et al.  
+   *Contribution*: Introduced the Transformer architecture, foundational for modern large language models (LLMs) that power many AI agents today.
+
+2. **[Playing Atari with Deep Reinforcement Learning (2013)](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)**  
+   *Authors*: Volodymyr Mnih et al.  
+   *Contribution*: Pioneered deep Q-networks (DQN), demonstrating how agents can learn control policies directly from high-dimensional sensory inputs.
+
+3. **[Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (2019)](https://arxiv.org/abs/1911.08265)**  
+   *Authors*: Julian Schrittwieser et al.  
+   *Contribution*: Presented MuZero, an algorithm that learns a model of the environment's dynamics and uses it for planning, achieving superhuman performance in various games.
+
+4. **[ReAct: Synergizing Reasoning and Acting in Language Models (2022)](https://arxiv.org/abs/2210.03629)**  
+   *Authors*: Shunyu Yao et al.  
+   *Contribution*: Proposed a framework combining reasoning and acting, enabling language models to make decisions through a combination of thought and action.
+
+5. **[Reflexion: Language Agents with Verbal Reinforcement Learning (2023)](https://arxiv.org/abs/2303.11366)**  
+   *Authors*: Noah Shinn et al.  
+   *Contribution*: Introduced a method where agents improve over time by reflecting on past experiences and learning from them, enhancing decision-making capabilities.
+
+6. **[Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends (2024)](https://arxiv.org/abs/2409.14457)**  
+   *Authors*: Yuntao Wang et al.  
+   *Contribution*: Provided a comprehensive overview of large model-based agents, discussing their architectures, cooperation methods, and associated security and privacy challenges.
+
+7. **[An In-depth Survey of Large Language Model-based Artificial Intelligence Agents (2023)](https://arxiv.org/abs/2309.14365)**  
+   *Authors*: Pengyu Zhao et al.  
+   *Contribution*: Surveyed the integration of LLMs into AI agents, analyzing their planning, memory, and tool-use capabilities.
+
+8. **[AI Agents That Matter (2024)](https://arxiv.org/abs/2407.01502)**  
+   *Authors*: [Not specified]  
+   *Contribution*: Critically examined current AI agent benchmarks, highlighting the need for more comprehensive evaluation metrics beyond accuracy.
+
+9. **[The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling: A Survey (2024)](https://arxiv.org/abs/2404.11584)**  
+   *Authors*: Tula Masterman et al.  
+   *Contribution*: Explored recent advancements in AI agent architectures, focusing on their reasoning, planning, and tool-use capabilities.
+
+10. **[AI Agents: Evolution, Architecture, and Real-World Applications (2025)](https://arxiv.org/abs/2503.12687)**  
+    *Author*: Naveen Krishnan  
+    *Contribution*: Discussed the progression of AI agents, their architectural designs, and practical applications across various domains.
 
