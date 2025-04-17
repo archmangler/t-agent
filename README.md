@@ -309,7 +309,9 @@ Here are some possible enhancements you can explore:
 ---
 
 ## Appendix: Complete Code for Reference
-You could include a short note here explaining how the complete code ties together all previously discussed components, to reinforce understanding for the learner.
+
+* Tying it all together, your code should look like this (more or less):
+
 
 ```python
 # config.py
