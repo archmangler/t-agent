@@ -1,5 +1,7 @@
 # Building a Basic Local AI Agent in Python: A nnon-interactive, text-basedCourse
 
+**Note: This article provides annotations and responses to the original course included in the readme.**
+
 ## Introduction
 
 This course provides a focused, no-frills, accelerated pathway to writing a simple but functional locally hosted AI agent in Python. It walks a novice agent enthusiast through:
